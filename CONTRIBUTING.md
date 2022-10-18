@@ -20,6 +20,11 @@
 - Place: Bangalore, Karnataka, India
 - Bio: I am a student.
 - GitHub: [GitHub account name](https://github.com/suhas-m-svit)
+#### Name: [Rajbha Sisodiya](https://github.com/Rahoo11)
+
+- Place: Ahmedabad,Gujarat,India
+- Bio: I am a student.
+- GitHub: [GitHub account name](https://github.com/Rahoo11)
 
 #### Name: [Mohd Kaleem Saqlaini](https://github.com/saqlainkaleem)
 
